@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Sorry Card Aniamtion</title>
+            <link rel="stylesheet" href="style.css">
+      </head>
+
+      <body>
+            <div class="emoji"> &#128532;
+
+                  <span style="font-size: 100px;"> &#128532;</span>
+                  <span style="font-size: 100px;">&#128532;</span>
+                  
+            </div> 
+                  <div class="container">
+                        <div class="frame">
+                              <div class="envelope"></div>
+                               <div class="front"> 
+                              </div>
+
+                                     <div class="card"> &#128532; 
+                                           <div class="text"> I'm <br> Sorry <br> <!--In place of star you guys can write NAME-->***** </div>&#128532;
+                                           <div class="card_emoji" style="font-size: 50px;">&#128532;</div>
+                                          </div>
+                        
+                        <div class="emoji_types">
+                              <div class="one">&#128532;</div>
+                              <div class="two">&#128532;</div>
+                              <div class="three">&#128532;</div>
+                              <div class="four">&#128532;</div>
+                              <div class="five">&#128532;</div>
+                              <div class="six">&#128532;</div>
+                              
+                        </div>
+                  </div>
+            </div>
+            <div class="shadow"> </div>
+      </body>
+            </html>
